@@ -1,5 +1,5 @@
 You can view the site here
-[Click Me]([https://lnkd.in/dnbhJQXT](https://main--dainty-croquembouche-c3b41a.netlify.app/))
+[Click Me](https://main--dainty-croquembouche-c3b41a.netlify.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
