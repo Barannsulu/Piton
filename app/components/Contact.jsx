@@ -1,5 +1,5 @@
 import React from "react";
-
+import Link from "next/link";
 function Contact() {
   return (
     <div className="sm:flex p-12">
@@ -51,9 +51,13 @@ function Contact() {
         </div>
 
         <div className="mb-4">
-          <button type="submit" className="bg-black text-white p-2 w-full ">
+          <Link
+            href="https://www.youtube.com/watch?v=h0MJZyK5m5w&t=78s"
+            type="submit"
+            className="bg-black text-white p-2 w-full "
+          >
             Send Proposal
-          </button>
+          </Link>
         </div>
       </div>
     </div>
