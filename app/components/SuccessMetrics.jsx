@@ -2,7 +2,7 @@ import React from "react";
 
 function SuccessMetrics() {
   return (
-    <div className="h-full bg-black flex justify-between items-center p-8 md:mb-36 flex-col md:flex-row">
+    <div className="h-full bg-black flex justify-evenly items-center p-8 md:mb-36 flex-col md:flex-row">
       <div className="text-center mb-4">
         <p
           className="text-yellow-400
